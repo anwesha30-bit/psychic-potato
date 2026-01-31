@@ -1,0 +1,5 @@
+{
+  "name": "React Game Engine UI",
+  "description": "A game engine interface built with React and Tailwind CSS, featuring a 2D/3D view toggle and a detailed Tilemap Editor. Users can draw with colors, import custom tilesets, and manage files within a modern, themeable UI.",
+  "requestFramePermissions": []
+}
